@@ -9,4 +9,4 @@
 	url = https://github.com/Danappelxx/libbson-xcode.git
 [submodule "Carthage/Checkouts/libmongoc-xcode"]
 	path = Carthage/Checkouts/libmongoc-xcode
-	url = https://github.com/Danappelxx/libmongoc-xcode.git
+	url = https://github.com/ludoded/libmongoc-xcode.git
